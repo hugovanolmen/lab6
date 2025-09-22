@@ -5,5 +5,8 @@ public class Main {
         System.out.println("Hello from the second new branch!");
         System.out.println("Hello from the first new branch!");
         System.out.println("Merge resolved");
+
+        int i = 0;
+        System.out.println(i);
     }
 }
